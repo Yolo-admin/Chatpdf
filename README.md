@@ -15,5 +15,9 @@ To run the project
         -In the frontend folder, run: npm run dev 
 
 Demo
-<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/ae2f7dbf-48b4-47a8-af3e-796225ad2d4f" />
+<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/8226da29-3101-4f6b-b3ee-3722d502524f" />
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/ec78f66a-1d17-4392-8df4-fc72cba1ee0f" />
+
+
 
