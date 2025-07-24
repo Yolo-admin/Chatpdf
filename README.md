@@ -8,7 +8,7 @@ To run the project
         -Navigate to the backend folder.
         -Install Python dependencies: pip install -r requirements.txt
         -Run the commands python manage.py makemigrations, python manage.py migrate   
-4. Create .env file inside backend folder with the content
+4. Create .env file inside backend folder with the content sent in mail, add your openai key
 5. Set up the frontend
         -Navigate to the frontend folder.
         -Install JavaScript dependencies: npm install
