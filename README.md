@@ -7,10 +7,11 @@ To run the project
         -Open the project in your code editor.
         -Navigate to the backend folder.
         -Install Python dependencies: pip install -r requirements.txt
-3. Set up the frontend
+3. Create .env file inside backend folder with the content
+4. Set up the frontend
         -Navigate to the frontend folder.
         -Install JavaScript dependencies: npm install
-4. Start the servers
+5. Start the servers
         -In the backend folder, run: python manage.py runserver 0.0.0.0:8000
         -In the frontend folder, run: npm run dev 
 
